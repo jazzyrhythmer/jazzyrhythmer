@@ -22,12 +22,12 @@ An unofficial, free and open-source groovebox environment for Jungle, Techno, Ho
 
 ## For FM-1
 
-[![JAZZY and RHYTHMER for FM-1](https://raw.githubusercontent.com/JazzyRhythmer/Rhythmer/main/docs/github/firmware-lineup.png)](https://jazzyrhythmer.github.io/Jazzy/#companion)
+[![JAZZY and RHYTHMER for FM-1](https://raw.githubusercontent.com/JazzyRhythmer/rhythmer/main/docs/github/firmware-lineup.png)](https://jazzyrhythmer.github.io/jazzy/#companion)
 
 | JAZZY | RHYTHMER |
 | --- | --- |
 | **Explore the unheard.** Browse 31 synth, drum and Break engines and over 1,200 factory sounds. One sound per track. | **Sound into motion.** Build grooves with assignable tracks, individual drum swaps, generation and break chops. Built on JIANT. |
-| [Explore](https://jazzyrhythmer.github.io/Jazzy/) · [Play](https://jazzyrhythmer.github.io/Jazzy/emulator/) · [Install](https://jazzyrhythmer.github.io/Jazzy/installer/) · [Source](https://github.com/JazzyRhythmer/Jazzy) | [Explore & guide](https://jazzyrhythmer.github.io/Rhythmer/) · [Play](https://jazzyrhythmer.github.io/Rhythmer/#play) · [Install](https://jazzyrhythmer.github.io/Rhythmer/installer/) · [Source](https://github.com/JazzyRhythmer/Rhythmer) |
+| [Explore](https://jazzyrhythmer.github.io/jazzy/) · [Play](https://jazzyrhythmer.github.io/jazzy/emulator/) · [Install](https://jazzyrhythmer.github.io/jazzy/installer/) · [Source](https://github.com/JazzyRhythmer/jazzy) | [Explore & guide](https://jazzyrhythmer.github.io/rhythmer/) · [Play](https://jazzyrhythmer.github.io/rhythmer/#play) · [Install](https://jazzyrhythmer.github.io/rhythmer/installer/) · [Source](https://github.com/JazzyRhythmer/rhythmer) |
 
 ## JR Audio Software
 
