@@ -22,7 +22,7 @@ An unofficial, free and open-source groovebox environment for Jungle, Techno, Ho
 
 ## For FM-1
 
-[![JAZZY sound exploration and RHYTHMER Break performance on FM-1](assets/fm1-companion.jpg)](https://jazzyrhythmer.github.io/jazzy/#companion)
+[![JAZZY OS update — Sidechain Link, USB MIDI Host and New Pixel Worlds](assets/jazzy-update.png)](https://www.youtube.com/watch?v=sTyKCdER6a0)
 
 | JAZZY | RHYTHMER |
 | --- | --- |
