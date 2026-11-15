@@ -22,12 +22,21 @@ An unofficial, free and open-source groovebox environment for Jungle, Techno, Ho
 
 ## For FM-1
 
-[![JAZZY OS update — Sidechain Link, USB MIDI Host and New Pixel Worlds](assets/jazzy-update.png)](https://www.youtube.com/watch?v=sTyKCdER6a0)
+### JAZZY
 
-| JAZZY | RHYTHMER |
-| --- | --- |
-| **Explore the unheard.** Browse 31 synth, drum and Break engines and over 1,200 factory sounds. One sound per track. | **Sound into motion.** Build grooves with assignable tracks, individual drum swaps, generation and break chops. Built on JIANT. |
-| [Explore](https://jazzyrhythmer.github.io/jazzy/) · [Play](https://jazzyrhythmer.github.io/jazzy/emulator/) · [Install](https://jazzyrhythmer.github.io/jazzy/installer/) · [Source](https://github.com/jazzyrhythmer/jazzy) | [Explore & guide](https://jazzyrhythmer.github.io/rhythmer/) · [Play](https://jazzyrhythmer.github.io/rhythmer/#play) · [Install](https://jazzyrhythmer.github.io/rhythmer/installer/) · [Source](https://github.com/jazzyrhythmer/rhythmer) |
+<a href="https://www.youtube.com/watch?v=sTyKCdER6a0"><img src="assets/jazzy-update.png" width="100%" alt="JAZZY OS update — Sidechain Link, USB MIDI Host and New Pixel Worlds"></a>
+
+**Explore the unheard.** Browse 31 synth, drum and Break engines and over 1,200 factory sounds. One sound per track.
+
+[Watch the update](https://www.youtube.com/watch?v=sTyKCdER6a0) · [Explore](https://jazzyrhythmer.github.io/jazzy/) · [Play](https://jazzyrhythmer.github.io/jazzy/emulator/) · [Install](https://jazzyrhythmer.github.io/jazzy/installer/) · [Source](https://github.com/jazzyrhythmer/jazzy)
+
+### RHYTHMER
+
+<a href="https://www.youtube.com/watch?v=98T8jz5DHV4"><img src="assets/rhythmer-update.png" width="100%" alt="RHYTHMER OS update — Individual Drum Swaps, Target GEN and Break GEN"></a>
+
+**Sound into motion.** Build grooves with assignable tracks, individual drum swaps, generation and break chops. Built on JIANT.
+
+[Watch the update](https://www.youtube.com/watch?v=98T8jz5DHV4) · [Explore & guide](https://jazzyrhythmer.github.io/rhythmer/) · [Play](https://jazzyrhythmer.github.io/rhythmer/#play) · [Install](https://jazzyrhythmer.github.io/rhythmer/installer/) · [Source](https://github.com/jazzyrhythmer/rhythmer)
 
 ## JR Audio Software
 
