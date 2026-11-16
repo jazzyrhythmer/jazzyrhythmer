@@ -40,13 +40,15 @@ An unofficial, free and open-source groovebox environment for Jungle, Techno, Ho
 
 ## JR Audio Software
 
-**In development · Expected in 2027.** A first look at the instruments and tools I'm working on. These are previews, not released downloads.
+**In development.** A first look at the instruments and tools I'm working on, from the 2027 previews to new projects taking shape. See each project's current status in the [software catalog](https://jazzyrhythmer.github.io/software.html).
 
 | | Project | The idea |
 | --- | --- | --- |
+| [<img src="assets/apps/icon-jr-flow.svg" width="56" alt="JR FLOW">](https://jazzyrhythmer.github.io/jr-flow.html) | **[JR FLOW](https://jazzyrhythmer.github.io/jr-flow.html)**<br>Audio & MIDI Host · In development | **All your sounds. A little more connected.** Connect instruments, shape effects and catch the moment it all clicks. A mixer for ideas that want to play together. |
+| [<img src="assets/apps/icon-jr-chord.svg" width="56" alt="JR CHORD">](https://jazzyrhythmer.github.io/jr-chord.html) | **[JR CHORD](https://jazzyrhythmer.github.io/jr-chord.html)**<br>Playable Chord Instrument · In development | **Find a chord. Change the mood.** Rich voicings, moving patterns and a bassline that follows your lead. Find a chord and see where it takes you. |
 | [<img src="assets/apps/icon-jr-acid.png" width="56" alt="JR ACID">](https://jazzyrhythmer.github.io/software.html#jr-acid) | **[JR ACID](https://jazzyrhythmer.github.io/software.html#jr-acid)**<br>Generative acid instrument | Generate a squelchy bassline, lock your favorite steps, and mutate the rest. |
 | [<img src="assets/apps/icon-jr-fx.png" width="56" alt="JR FX">](https://jazzyrhythmer.github.io/software.html#jr-fx) | **[JR FX](https://jazzyrhythmer.github.io/software.html#jr-fx)**<br>Performance effects | Turn loops into live performances with hands-on pads and expressive effects. |
-| [<img src="assets/apps/icon-jr-smpl.png" width="56" alt="JR SMPL">](https://jazzyrhythmer.github.io/software.html#jr-smpl) | **[JR SMPL](https://jazzyrhythmer.github.io/software.html#jr-smpl)**<br>Pad sampler | A sampler with vintage MPC workflow. Chop it, tap it, make a classic. |
+| [<img src="assets/apps/icon-jr-smpl.png" width="56" alt="JR SMPL">](https://jazzyrhythmer.github.io/software.html#jr-smpl) | **[JR SMPL](https://jazzyrhythmer.github.io/software.html#jr-smpl)**<br>Pad sampler | Vintage sampling workflow. Fresh ideas. Chop it, tap it, make a classic. |
 | [<img src="assets/apps/icon-jr-rytm.png" width="56" alt="JR RYTM">](https://jazzyrhythmer.github.io/software.html#jr-rytm) | **[JR RYTM](https://jazzyrhythmer.github.io/software.html#jr-rytm)**<br>Performance groovebox | Build a beat and bend it live with scenes and performance controls. |
 | [<img src="assets/apps/icon-jr-draw.png" width="56" alt="JR DRAW">](https://jazzyrhythmer.github.io/software.html#jr-draw) | **[JR DRAW](https://jazzyrhythmer.github.io/software.html#jr-draw)**<br>Drawing instrument | Sketch a line and hear it become a playable musical phrase. |
 | [<img src="assets/apps/icon-jr-play.png" width="56" alt="JR PLAY">](https://jazzyrhythmer.github.io/software.html#jr-play) | **[JR PLAY](https://jazzyrhythmer.github.io/software.html#jr-play)**<br>Pattern-to-song workstation | Start with a loop and turn it into a song. |
