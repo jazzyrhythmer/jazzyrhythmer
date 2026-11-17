@@ -12,11 +12,11 @@ I make music. And the tools to keep it moving. I'm an independent music producer
 
 **Your MPC Sample. A wider world of sound and groove.**
 
-An unofficial, free and open-source groovebox environment for Jungle, Techno, House & IDM: 20 plug-in entries, 36 Rhythmer Kits, hands-on sound design, GEN, Acid and Break workflows.
+An unofficial, free and open-source groovebox environment for Jungle, Techno, House & IDM: 22 plug-in entries, 36 Rhythmer Kits and 2,888 factory sound selections across 27 source views (including kit voices and shared Acid choices), hands-on sound design, GEN, Acid and Break workflows. Frodhes brings electric pianos and mallets; Tenebrae adds eight oscillator models.
 
 [![RHYTHMER OS startup](assets/mpc-sample.png)](https://jazzyrhythmer.github.io/mpc-sample/)
 
-[Download & installation](https://jazzyrhythmer.github.io/mpc-sample/installer/) · [Manual](https://jazzyrhythmer.github.io/mpc-sample/manual/) · [First pattern](https://jazzyrhythmer.github.io/mpc-sample/manual/quickstart.html) · [OS source](https://github.com/jazzyrhythmer/mpc-sample-rhythmer-os) · [Engine port sources & credits](https://github.com/jazzyrhythmer/mpc-sample-engine-ports)
+[Download & installation](https://jazzyrhythmer.github.io/mpc-sample/installer/) · [Manual](https://jazzyrhythmer.github.io/mpc-sample/manual/) · [Your first groove](https://jazzyrhythmer.github.io/mpc-sample/manual/quickstart.html) · [OS source](https://github.com/jazzyrhythmer/mpc-sample-rhythmer-os) · [Engine port sources & credits](https://github.com/jazzyrhythmer/mpc-sample-engine-ports)
 
 **Early beta:** offline build, audio-host and UI checks are documented; physical MPC Sample validation remains pending. Built on [Melodee](https://github.com/keremimo/melodee) by Kerem Kiliç (Ellic Studio), with work by many open-source contributors. Original authorship and component licenses are preserved in the source repositories.
 
