@@ -4,7 +4,7 @@
 
 I make music. And the tools to keep it moving. I'm an independent music producer exploring rhythm, texture and the possibilities inside small machines — sharing music and sessions, and building **JR Audio Software**.
 
-[Website](https://jazzyrhythmer.github.io/) · [Software](https://jazzyrhythmer.github.io/software.html) · [Studio Notes & updates](https://jazzyrhythmer.github.io/#notes)
+[Website](https://jazzyrhythmer.github.io/) · [Software](https://jazzyrhythmer.github.io/software.html) · [Studio Notes & Updates](https://jazzyrhythmer.github.io/#notes)
 
 ## For MPC Sample
 
@@ -16,7 +16,7 @@ An unofficial, free and open-source groovebox environment for Jungle, Techno, Ho
 
 [![RHYTHMER OS startup](assets/mpc-sample.png)](https://jazzyrhythmer.github.io/mpc-sample/)
 
-[Download & installation](https://jazzyrhythmer.github.io/mpc-sample/installer/) · [Manual](https://jazzyrhythmer.github.io/mpc-sample/manual/) · [Your first groove](https://jazzyrhythmer.github.io/mpc-sample/manual/quickstart.html) · [OS source](https://github.com/jazzyrhythmer/mpc-sample-rhythmer-os) · [Engine port sources & credits](https://github.com/jazzyrhythmer/mpc-sample-engine-ports)
+[Download & Installation](https://jazzyrhythmer.github.io/mpc-sample/installer/) · [Manual](https://jazzyrhythmer.github.io/mpc-sample/manual/) · [Your first groove](https://jazzyrhythmer.github.io/mpc-sample/manual/quickstart.html) · [OS source](https://github.com/jazzyrhythmer/mpc-sample-rhythmer-os) · [Engine Port Sources & Credits](https://github.com/jazzyrhythmer/mpc-sample-engine-ports)
 
 Built on [Melodee](https://github.com/keremimo/melodee) by Kerem Kiliç (Ellic Studio), with work by many open-source contributors. Original authorship and component licenses are preserved in the source repositories.
 
@@ -36,7 +36,7 @@ Built on [Melodee](https://github.com/keremimo/melodee) by Kerem Kiliç (Ellic S
 
 **Sound into motion.** Build grooves with assignable tracks, individual drum swaps, generation and break chops. Built on JIANT.
 
-[Watch the update](https://www.youtube.com/watch?v=98T8jz5DHV4) · [Explore & guide](https://jazzyrhythmer.github.io/rhythmer/) · [Play](https://jazzyrhythmer.github.io/rhythmer/#play) · [Install](https://jazzyrhythmer.github.io/rhythmer/installer/) · [Source](https://github.com/jazzyrhythmer/rhythmer)
+[Watch the update](https://www.youtube.com/watch?v=98T8jz5DHV4) · [Explore & Guide](https://jazzyrhythmer.github.io/rhythmer/) · [Play](https://jazzyrhythmer.github.io/rhythmer/#play) · [Install](https://jazzyrhythmer.github.io/rhythmer/installer/) · [Source](https://github.com/jazzyrhythmer/rhythmer)
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jazzyrhythmer/jazzyrhythmer/96ecee05a2797ab9102f9e5f8f0dcd0c42162f2e/assets/apps/jr-audio-software-logo-chalk.svg"><img src="https://raw.githubusercontent.com/jazzyrhythmer/jazzyrhythmer/96ecee05a2797ab9102f9e5f8f0dcd0c42162f2e/assets/apps/jr-audio-software-logo-ink.svg" width="360" alt="JR Audio Software"></picture></h2>
 
@@ -62,9 +62,9 @@ Built on [Melodee](https://github.com/keremimo/melodee) by Kerem Kiliç (Ellic S
 
 If you enjoy the music or find these tools useful, your support helps me keep creating and sharing the next one. The open-source firmware remains free.
 
-[Ko-fi](https://ko-fi.com/jazzyrhythmer) · [Patreon](https://www.patreon.com/JazzyRhythmer/) · [Studio Notes & email updates](https://jazzyrhythmer.github.io/#notes)
+[Ko-fi](https://ko-fi.com/jazzyrhythmer) · [Patreon](https://www.patreon.com/JazzyRhythmer/) · [Studio Notes & Email Updates](https://jazzyrhythmer.github.io/#notes)
 
-## Music & process
+## Music & Process
 
 [YouTube](https://www.youtube.com/@jazzyrhythmer) · [Instagram](https://www.instagram.com/jazzyrhythmer/) · [SoundCloud](https://soundcloud.com/jazzyrhythmer) · [Bandcamp](https://jazzyrhythmer.bandcamp.com/)
 
