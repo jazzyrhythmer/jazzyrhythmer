@@ -6,6 +6,20 @@ I make music. And the tools to keep it moving. I'm an independent music producer
 
 [Website](https://jazzyrhythmer.github.io/) · [Software](https://jazzyrhythmer.github.io/software.html) · [Studio Notes & Updates](https://jazzyrhythmer.github.io/#notes)
 
+## For Mac & Windows
+
+### RHYTHMER ENGINES
+
+**Find a sound. Shape it. Build a pattern.**
+
+A free and open-source DAW instrument with **22 engines, 69 sixteen-pad Rhythmer Kits and MIDI GEN**. Eight main sound controls, full grouped editing, pad-by-pad kit editing and note-responsive 3D artwork.
+
+[![RHYTHMER ENGINES for Mac and Windows](https://jazzyrhythmer.github.io/rhythmer-engines/assets/play.png)](https://jazzyrhythmer.github.io/rhythmer-engines/)
+
+Mac: Apple Silicon / macOS 13+ / AU, VST2 and VST3. Windows: Windows 10/11 x64 / VST3 early beta.
+
+[Downloads & Installation](https://jazzyrhythmer.github.io/rhythmer-engines/#release) · [First session](https://jazzyrhythmer.github.io/rhythmer-engines/#guide) · [Windows test guide](https://jazzyrhythmer.github.io/rhythmer-engines/#windows-check) · [Source & Credits](https://github.com/jazzyrhythmer/rhythmer-engines)
+
 ## For MPC Sample
 
 ### RHYTHMER OS
