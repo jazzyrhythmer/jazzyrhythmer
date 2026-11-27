@@ -52,6 +52,12 @@ Built on [Melodee](https://github.com/keremimo/melodee) by Kerem Kiliç (Ellic S
 
 [Watch the update](https://www.youtube.com/watch?v=98T8jz5DHV4) · [Explore & Guide](https://jazzyrhythmer.github.io/rhythmer/) · [Play](https://jazzyrhythmer.github.io/rhythmer/#play) · [Install](https://jazzyrhythmer.github.io/rhythmer/installer/) · [Source](https://github.com/jazzyrhythmer/rhythmer)
 
+### Also for M-VAVE SMK-37 Pro
+
+JAZZY OS and RHYTHMER OS are available as separate early beta builds for the SMK-37 Pro. Explore synth engines and presets with JAZZY, or build grooves with RHYTHMER's drum kits, pattern generation and live break manipulation.
+
+[JAZZY OS · SMK-37 Pro install guide](https://jazzyrhythmer.github.io/jazzy/#smk37) · [RHYTHMER OS · SMK-37 Pro install guide](https://jazzyrhythmer.github.io/rhythmer/#smk37)
+
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jazzyrhythmer/jazzyrhythmer/96ecee05a2797ab9102f9e5f8f0dcd0c42162f2e/assets/apps/jr-audio-software-logo-chalk.svg"><img src="https://raw.githubusercontent.com/jazzyrhythmer/jazzyrhythmer/96ecee05a2797ab9102f9e5f8f0dcd0c42162f2e/assets/apps/jr-audio-software-logo-ink.svg" width="360" alt="JR Audio Software"></picture></h2>
 
 **Expected in 2027.** All JR apps below are planned for 2027. Join [Studio Notes](https://jazzyrhythmer.github.io/index.html#notes) for previews and release news.
